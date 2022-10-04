@@ -13,7 +13,7 @@ import java.util.Scanner;
 	    String date = 변수이름.nextLine();// 공백을 포함 문자열
 
 */
-class ScannerExam{ 
+public class Ex07ScannerExam{ 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
@@ -23,7 +23,7 @@ class ScannerExam{
 		int eng = sc.nextInt();
 		System.out.print("이름은 : ");
 		String name = sc.nextLine();
-
+		System.out.println("-------------");
 		System.out.println("국어 : " + kor);
 		System.out.println("영어 : " + eng);
 		System.out.println("이름 : " + name);
