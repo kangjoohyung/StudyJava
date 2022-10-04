@@ -1,5 +1,5 @@
 package SelfStudy.ss221004;
-class ex03CastingExam{
+class Ex03CastingExam{
 	public static void main(String []args){
 		byte b1;
 		byte b2,b3; 
