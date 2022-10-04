@@ -54,5 +54,4 @@ class ex03CastingExam{
 		c3=(char)(c2+2);
 		System.out.println("char c3="+c3);
 	}
-
 }
