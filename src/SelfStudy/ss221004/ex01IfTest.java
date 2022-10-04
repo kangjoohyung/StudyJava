@@ -12,6 +12,5 @@ class IfTest{
 		//1에서5사이정수 난수발생
 		System.out.println("nansu =" + nansu);
 		int convertNo =(int)(nansu *5) + 1;
-
     }//메인끝
 }//클래스끝
